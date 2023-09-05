@@ -1,0 +1,14 @@
+C:\BtkCourses\ASPNETWEBAPI\Applications\Traversal\EntityLayer\bin\Debug\net6.0\EntityLayer.deps.json
+C:\BtkCourses\ASPNETWEBAPI\Applications\Traversal\EntityLayer\bin\Debug\net6.0\EntityLayer.runtimeconfig.json
+C:\BtkCourses\ASPNETWEBAPI\Applications\Traversal\EntityLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\BtkCourses\ASPNETWEBAPI\Applications\Traversal\EntityLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\BtkCourses\ASPNETWEBAPI\Applications\Traversal\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.AssemblyReference.cache
+C:\BtkCourses\ASPNETWEBAPI\Applications\Traversal\EntityLayer\obj\Debug\net6.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\BtkCourses\ASPNETWEBAPI\Applications\Traversal\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfoInputs.cache
+C:\BtkCourses\ASPNETWEBAPI\Applications\Traversal\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfo.cs
+C:\BtkCourses\ASPNETWEBAPI\Applications\Traversal\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\BtkCourses\ASPNETWEBAPI\Applications\Traversal\EntityLayer\obj\Debug\net6.0\EntityLayer.dll
+C:\BtkCourses\ASPNETWEBAPI\Applications\Traversal\EntityLayer\obj\Debug\net6.0\refint\EntityLayer.dll
+C:\BtkCourses\ASPNETWEBAPI\Applications\Traversal\EntityLayer\obj\Debug\net6.0\EntityLayer.pdb
+C:\BtkCourses\ASPNETWEBAPI\Applications\Traversal\EntityLayer\obj\Debug\net6.0\EntityLayer.genruntimeconfig.cache
+C:\BtkCourses\ASPNETWEBAPI\Applications\Traversal\EntityLayer\obj\Debug\net6.0\ref\EntityLayer.dll
